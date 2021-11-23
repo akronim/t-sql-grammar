@@ -1,0 +1,86 @@
+<Cars>
+  <Car CarID="1">
+    <CarInfo Name="Corrolla" Make="Toyota">
+      <Model>2015</Model>
+    </CarInfo>
+    <Price>20000</Price>
+    <Type>Sedan</Type>
+  </Car>
+  <Car CarID="2">
+    <CarInfo Name="Civic" Make="Honda">
+      <Model>2018</Model>
+    </CarInfo>
+    <Price>25000</Price>
+    <Type>Sedan</Type>
+  </Car>
+  <Car CarID="3">
+    <CarInfo Name="Passo" Make="Toyota">
+      <Model>2012</Model>
+    </CarInfo>
+    <Price>18000</Price>
+    <Type>Hatchback</Type>
+  </Car>
+  <Car CarID="4">
+    <CarInfo Name="Land Cruiser" Make="Toyota">
+      <Model>2017</Model>
+    </CarInfo>
+    <Price>40000</Price>
+    <Type>SUV</Type>
+  </Car>
+  <Car CarID="5">
+    <CarInfo Name="Corrolla" Make="Toyota">
+      <Model>2011</Model>
+    </CarInfo>
+    <Price>17000</Price>
+    <Type>Sedan</Type>
+  </Car>
+  <Car CarID="6">
+    <CarInfo Name="Vitz" Make="Toyota">
+      <Model>2014</Model>
+    </CarInfo>
+    <Price>15000</Price>
+    <Type>Hatchback</Type>
+  </Car>
+  <Car CarID="7">
+    <CarInfo Name="Accord" Make="Honda">
+      <Model>2018</Model>
+    </CarInfo>
+    <Price>28000</Price>
+    <Type>Sedan</Type>
+  </Car>
+  <Car CarID="8">
+    <CarInfo Name="7500" Make="BMW">
+      <Model>2015</Model>
+    </CarInfo>
+    <Price>50000</Price>
+    <Type>Sedan</Type>
+  </Car>
+  <Car CarID="9">
+    <CarInfo Name="Parado" Make="Toyota">
+      <Model>2011</Model>
+    </CarInfo>
+    <Price>25000</Price>
+    <Type>SUV</Type>
+  </Car>
+  <Car CarID="10">
+    <CarInfo Name="C200" Make="Mercedez">
+      <Model>2010</Model>
+    </CarInfo>
+    <Price>26000</Price>
+    <Type>Sedan</Type>
+  </Car>
+  <Car CarID="11">
+    <CarInfo Name="Corrolla" Make="Toyota">
+      <Model>2014</Model>
+    </CarInfo>
+    <Price>19000</Price>
+    <Type>Sedan</Type>
+  </Car>
+  <Car CarID="12">
+    <CarInfo Name="Civic" Make="Honda">
+      <Model>2015</Model>
+    </CarInfo>
+    <Price>20000</Price>
+    <Type>Sedan</Type>
+  </Car>
+</Cars>
